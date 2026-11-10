@@ -1,0 +1,19 @@
+{
+  "name": "banktrace",
+  "version": "1.0.0",
+  "description": "Understand the origin and expansion of a bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kchen2461/BankTrace.git"
+  },
+  "author": "Kevin Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kchen2461/BankTrace/issues"
+  },
+  "homepage": "https://github.com/Kchen2461/BankTrace#readme"
+}
